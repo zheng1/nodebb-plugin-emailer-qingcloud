@@ -1,0 +1,56 @@
+{
+  "name": "nodebb-plugin-emailer-local",
+  "version": "0.2.1",
+  "description": "NodeBB plugin to send emails via an SMTP service",
+  "keywords": [
+    "nodebb",
+    "email",
+    "emailer",
+    "smtp"
+  ],
+  "homepage": "https://github.com/NodeBB/nodebb-plugin-emailer-local",
+  "bugs": {
+    "url": "http://github.com/NodeBB/nodebb-plugin-emailer-local/issues",
+    "email": "alfred@brvy.me"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Alfred Dobradi",
+    "email": "alfred@brvy.me",
+    "url": "http://blog.brvy.me"
+  },
+  "dependencies": {
+    "nodemailer": "~0.6.0",
+    "path": "~0.4.9"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NodeBB/nodebb-plugin-emailer-local.git"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0"
+  },
+  "gitHead": "6f066739b800e026dda54b29d065f3bb5d4087ea",
+  "_id": "nodebb-plugin-emailer-local@0.2.1",
+  "scripts": {},
+  "_shasum": "fe07d5ac5eff2da14a7c634a0b6f38cab594d484",
+  "_from": "nodebb-plugin-emailer-local@*",
+  "_npmVersion": "2.0.0",
+  "_npmUser": {
+    "name": "julianlam",
+    "email": "julian@designcreateplay.com"
+  },
+  "maintainers": [
+    {
+      "name": "julianlam",
+      "email": "julian@designcreateplay.com"
+    }
+  ],
+  "dist": {
+    "shasum": "fe07d5ac5eff2da14a7c634a0b6f38cab594d484",
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-emailer-local/-/nodebb-plugin-emailer-local-0.2.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-emailer-local/-/nodebb-plugin-emailer-local-0.2.1.tgz"
+}
