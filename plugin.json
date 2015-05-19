@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-plugin-emailer-local",
-    "url": "https://github.com/NodeBB/nodebb-plugin-emailer-local",
+    "id": "nodebb-plugin-emailer-local-0.7",
+    "url": "https://github.com/mario56/nodebb-plugin-emailer-local-0.7.git",
     "name": "Emailer (Local)",
     "description": "Allows NodeBB to send emails via SMTP",
     "library": "./index.js",
