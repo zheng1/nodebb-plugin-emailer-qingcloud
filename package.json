@@ -1,6 +1,6 @@
 {
-  "name": "nodebb-plugin-emailer-local",
-  "version": "0.2.1",
+  "name": "nodebb-plugin-emailer-qingcloud",
+  "version": "0.1.0",
   "description": "NodeBB plugin to send emails via an SMTP service",
   "keywords": [
     "nodebb",
@@ -8,10 +8,10 @@
     "emailer",
     "smtp"
   ],
-  "homepage": "https://github.com/NodeBB/nodebb-plugin-emailer-local",
+  "homepage": "https://github.com/zheng1/nodebb-plugin-emailer-qingcloud",
   "bugs": {
-    "url": "http://github.com/NodeBB/nodebb-plugin-emailer-local/issues",
-    "email": "alfred@brvy.me"
+    "url": "http://github.com/zheng1/nodebb-plugin-emailer-qingcloud/issues",
+    "email": "zheng1@yunify.com"
   },
   "license": "MIT",
   "author": {
@@ -26,7 +26,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-plugin-emailer-local.git"
+    "url": "https://github.com/zheng1/nodebb-plugin-emailer-qingcloud.git"
   },
   "nbbpm": {
     "compatibility": "^0.6.0"
